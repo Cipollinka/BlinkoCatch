@@ -52,7 +52,7 @@ workflows:
     publishing:
       email:
         recipients:
-          natigaalieva521@gmail.com       # <----
+          - natigaalieva521@gmail.com       # <----
         notify:
           success: true
           failure: false
